@@ -5,7 +5,7 @@ Welcome to my electronic trading algorithm!
 ### My Rationale
 
 My algo takes into account the spread as well as the quantity of bid orders and ask orders on the market to establish if there is a buy pressure or a sell pressure.
-It then places orders accordingly. Please see the flow diagram below which illustrates the decisions that my algo makes. You can also click on [MyAlgoLogicFlowDiagram.jpg]() to zoom in and move around the diagram. 
+It then places orders accordingly. Please see the flow diagram below which illustrates the decisions that my algo makes. You can also click on [MyAlgoLogicFlowDiagram.jpg](https://github.com/ow1609/trading-algorithm-assessment/blob/submission-code/MyAlgoLogicFlowDiagram.jpg) to zoom in and move around the diagram. 
 
 ![cbf-graphics-overview](MyAlgoLogicFlowDiagram.jpg)
 
